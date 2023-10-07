@@ -34,12 +34,13 @@ Este é um projeto de análise de dados desenvolvido utilizando o Power BI. O ob
 # Resultados
 •	Após a transformação dos dados, obtive um conjunto de dados limpo e pronto para análise no Power BI.
 
-# Observações
-•	No processo de junção dos colaboradores e nomes dos gerentes, utilizei a mescla de tabelas com Power BI.
-
 # Agrupamento de Dados
+•	No processo de junção dos colaboradores e nomes dos  gerentes, utilizei a mescla de tabelas com Power BI;
+
 •	Realizei o agrupamento dos dados para determinar quantos colaboradores existem por gerente;
-• Agrupei também os dados de employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores.
+
+• Agrupei também os dados de employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores;
+
 • Os dados das colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes dos colaboradores e os dados de nomes de departamentos e localização.
 
 # Limpeza Final
